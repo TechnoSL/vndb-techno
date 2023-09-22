@@ -12,7 +12,7 @@ ps: this theme is meant to be used with the default ["Angelic Serenade"](https:/
 
 You have to install [Stylus](https://add0n.com/stylus.html) and then click on the install link below.
 
-[![image](https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat)](https://raw.githubusercontent.com/TechnoSL/vndb-techno/main/vndbtechno.user.styl)
+[![image](https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat)](https://github.com/TechnoSL/vndb-techno/raw/master/vndbtechno.user.styl)
 
 ## License
 
