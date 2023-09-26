@@ -1,19 +1,21 @@
-# vndb-techno
-
-![screenshot preview](https://b.catgirlsare.sexy/CivpheCAMXqS.png)
-
+# stylus-themes
 ## About
+This repo contains a collection of some of my personal stylus themes, mostly edits of some other themes to better fit me.
 
-My personal Stylus theme for vndb.org, uses a lot of code from [Better VNDB.org](https://uso.kkx.one/style/105442) by tomchen, licensed under CC0.
-
-ps: this theme is meant to be used with the default ["Angelic Serenade"](https://b.catgirlsare.sexy/durlqdzc3XGW.png) vndb skin, other themes will break the style.
-
+here's some [previews](https://github.com/TechnoSL/stylus-themes/blob/master/previews.md)
 ## Installation
 
-You have to install [Stylus](https://add0n.com/stylus.html) and then click on the install link below.
+You have to install [Stylus](https://add0n.com/stylus.html) and then click on the install links below.
 
-[![image](https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat)](https://github.com/TechnoSL/vndb-techno/raw/master/vndbtechno.user.styl)
+[![image](https://img.shields.io/badge/install%20vndb_techno-with%20Stylus)](https://github.com/TechnoSL/stylus-themes/raw/master/vndbtechno.user.styl)
 
-## License
+[![image](https://img.shields.io/badge/install%20ani_techno-with%20Stylus)](https://github.com/TechnoSL/stylus-themes/raw/master/anitechno.user.styl)
 
-Code released under the [CC0](https://github.com/TechnoSL/vndb-techno/blob/main/LICENSE) license.
+## License/Credits
+
+Code released under the [CC0](https://github.com/TechnoSL/stylus-themes/blob/main/LICENSE) license.
+
+vndb-techno is an edit of [Better VNDB.org](https://uso.kkx.one/style/105442) by tomchen, released under CC0
+
+ani-techno is an edit of [Anilist 1998 laptop modifications](https://uso.kkx.one/style/160522) by hoh, licensed under CC-BY-4.0, using some code from [Anilist Hossori](https://userstyles.world/style/5243/anilist-modifications) by Slickboy, licensed under CC0
+
