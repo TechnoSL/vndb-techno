@@ -227,6 +227,7 @@
 		}
 		:root, /* color stuff from anilist hossori */
 		.site-theme-contrast,
+		.user-page-unscoped.red,
 		.site-theme-dark {
 			--color-background: 20, 20, 20;
 			--color-foreground: 30, 30, 30;
@@ -967,9 +968,6 @@
 }
 
 @-moz-document regexp(".*anilist.co/(studio|search/(anime|manga)).*") {
-	.description {
-		display: none;
-	}
 	body,
 	.preview-section {
 		counter-reset: ranking;
@@ -981,12 +979,6 @@
 		position: absolute;
 		counter-increment: ranking;
 		content: counter(ranking);
-	}
-	.media-card {
-		min-width: 150px!important;
-		grid-template-columns: 150px auto!important;
-		height: 297px!important;
-		width: 150px !important;
 	}
 	.cover .overlay {
 		padding-left: 8px!important;
