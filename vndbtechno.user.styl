@@ -55,6 +55,10 @@ html {
     --noticeborder: #227688;
     --helpbutton: #06ffc5;
 }
+/* fix for "partially voiced" vns having a ugly white bg */
+.icon-rel-v3, .icon-rel-a3 {
+    filter: invert(0%) hue-rotate(40deg);
+}
 
 /* fix for vote score being offscreen */
 .elm_dd>a {
