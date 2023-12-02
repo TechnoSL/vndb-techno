@@ -49,6 +49,7 @@ html {
     --border: #a61832;
     --diffadd: #354;
     --diffdel: #534;
+    --blendbg: #000
     --warnbg: #534;
     --warnborder: #c00;
     --noticebg: #052d2e;
@@ -60,9 +61,13 @@ html {
     filter: invert(0%) hue-rotate(40deg);
 }
 
-/* fix for vote score being offscreen */
+/* fix for vote score being offscreen, use 20px if chromium browser */
 .elm_dd>a {
-    padding-right: 20px;
+    padding-right: 25px;
+}
+/* fix for and/or filter being cut off */
+.elm_dd_input .elm_dd>a {
+    padding:1px 21px 1px 2px
 }
 /* techno edits end, everything below is Better VNDB by tomchen. */
 
